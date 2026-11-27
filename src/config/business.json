@@ -1,0 +1,17 @@
+{
+  "name": "Inxora Home Service",
+  "shortName": "inxora",
+  "description": "Template landing page jasa perawatan rumah. Cleaning, perbaikan rumah, pipa, dan taman dalam satu halaman yang mudah disesuaikan.",
+  "locale": "id-ID",
+  "whatsapp": "",
+  "email": "",
+  "address": "",
+  "openingHours": ["Senin–Sabtu, 08.00–17.00 WIB"],
+  "serviceAreas": [
+    "Jakarta Selatan",
+    "Jakarta Barat",
+    "Jakarta Pusat",
+    "Tangerang Selatan"
+  ],
+  "demo": true
+}
